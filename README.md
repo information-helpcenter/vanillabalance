@@ -1,1 +1,1 @@
-# vanillabalance
+# vanilla gift balance
